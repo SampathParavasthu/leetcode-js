@@ -1,4 +1,4 @@
-# 438 Find All Anagrams in a String
+# 438 - Find All Anagrams in a String
 function frequencyPattern (arr1, frequencyCounter2){
   let frequencyCounter1 = {}
   for(let val of arr1){ // first loop
