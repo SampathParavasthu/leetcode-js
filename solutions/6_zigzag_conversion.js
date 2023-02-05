@@ -1,5 +1,4 @@
-#Zigzag Conversion
-
+#6.Zigzag Conversion
 /**
  * @param {string} s
  * @param {number} numRows
