@@ -6,7 +6,7 @@
  * @return {number[]}
  */
 var shuffle = function(nums, n) {
-    let a = [];
+    let a = new Array();
     for(let i = 0; i<n; i++){
       a.push(nums[i], nums[i + n]);
     }
